@@ -7,4 +7,4 @@
 4. The notebook will automatically generate `cleaned_sales.csv` (Part A) and `sales_updated.csv` (Part B).
 
 ## GitHub Repository
-[Insert your GitHub repository link here]
+https://github.com/Developerr-here/PSEB_ShanzebShafique_NumpyPandas
