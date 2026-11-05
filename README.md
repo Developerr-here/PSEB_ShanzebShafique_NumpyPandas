@@ -2,7 +2,7 @@
 
 ## How to Run the Notebook
 1. Ensure `sales_raw.csv` is located in the same directory as the notebook.
-2. Open `Sunday_Project.ipynb` in Jupyter Notebook or Google Colab.
+2. Open `Assign3.ipynb` in Jupyter Notebook or Google Colab.
 3. Run all cells sequentially from top to bottom.
 4. The notebook will automatically generate `cleaned_sales.csv` (Part A) and `sales_updated.csv` (Part B).
 
